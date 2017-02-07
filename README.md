@@ -1,2 +1,4 @@
 # helloworldjavafx8
-A simple archetype for JavaFX 8
+A small Maven Application for JavaFX 8 applications.
+
+
